@@ -18,6 +18,8 @@
 		<gap:platform name="android" minVersion="2.1" />
 	</gap:platforms>
 
+<preference name="permissions" value="none"/>
+
 <icon src="icon.png" />
 
  <gap:splash src="splash.png" />
